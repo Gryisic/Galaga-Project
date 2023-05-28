@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c40e53472f7455a83da830c3215aade, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  _navigationProviders:
+  - _type: 0
+    _spline: {fileID: 4008783931840868419, guid: d6466850433428144ae972f5d22b037a, type: 3}
+  _ships: 01000000
+  _shipsAmount: 5
+  _conditionType: 0
+  _delay: 1
